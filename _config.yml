@@ -24,7 +24,7 @@ header:
     - label: About
       url: /about
       style: link
-    - label: Blog
+    - label: Missions
       url: /missions
       style: link
     - label: Style Guide
