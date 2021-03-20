@@ -25,7 +25,7 @@ header:
       url: /about
       style: link
     - label: Blog
-      url: /
+      url: /missions
       style: link
     - label: Style Guide
       url: /style-guide
